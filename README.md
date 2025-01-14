@@ -3,7 +3,7 @@
 <h2>🤓 About Me</h2>
 
 - I am a tech enthusiast. 🤠
-- I am currently a second year Computer Science Student. 👨‍🎓
+- I am currently pursuing MCA at Indira Gandhi Delhi Technical University For Women 👨‍🎓
 - I have a keen interest in Competitive Programming, Web and Android Development, AI, and Open Source. 💻
 - I love solving real life problems through technology. 💡
 - Nowadays, I am building up my DSA skills with [leetcode](  https://leetcode.com/Neha_2918/) .🖱
